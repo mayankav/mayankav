@@ -1,19 +1,11 @@
 # Hi, I’m Mayank
 
-I build products, from the first interface to the systems behind it.
+I design and build products, from the interface to the systems that keep them running.
 
-Right now, I’m building [Speechworks](https://speechworks.app),
-an app for people who stutter. It combines daily practice,
-AI conversation simulations, and progress tracking. People can
-also pair up to practise together, because having someone to
-show up for makes it easier to keep going.
+I’m building [Speechworks](https://speechworks.app), an app for people who stutter. It brings together daily practice, AI conversation simulations, and progress tracking. You can also pair up with someone to practise, because having someone to show up for helps you keep going.
 
-I’m also building [DreamRadio](https://dreamradio.pro), a way to
-explore live radio around the world. Pick a place on the globe,
-listen in, and save songs you stumble across.
+I’m also building [DreamRadio](https://dreamradio.pro). DreamRadio makes it easy to discover songs you’ve never heard while you focus on work or settle into a long drive. Live radio from around the world, right in your browser. No login. No fuss.
 
-My work spans mobile apps, web interfaces, backend services,
-and infrastructure. I care about the small details that make
-something feel good to use, and what happens when it breaks.
+I work across mobile, web, backend, and infrastructure. I care about how a product feels to use and whether it holds up in everyday use.
 
 [Get in touch](mailto:mayankmacav@gmail.com)
