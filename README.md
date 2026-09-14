@@ -2,7 +2,7 @@
 
 I build products, from the first interface to the systems behind it.
 
-Right now, I’m building [SpeechWorks](https://speechworks.app),
+Right now, I’m building [Speechworks](https://speechworks.app),
 an app for people who stutter. It combines daily practice,
 AI conversation simulations, and progress tracking. People can
 also pair up to practise together, because having someone to
